@@ -1,5 +1,13 @@
 # Laboratory-Work1-Activity-PowerBI
 
+## Verify Data in Data View
+○ Are all columns visible?
+  - Yes, you should be able to see all five columns: Region, Category, Year (or Date), Sales, and a unique identifier like Product Name
+○ Is “Date” formatted as Date?
+  - I’ve already formatted the Date column correctly
+○ Is “Sales” formatted as Decimal Number?
+  - Yes, the Sales column should be a Decimal Number so that the visuals can correctly calculate totals, like $220.23K.
+
 ## Quick Visualization
 ## Screenshots
 ## Answers to Questions
@@ -69,8 +77,27 @@
 ## Add a Card Visualization
 ## Screenshots
 ## Answers to Questions
+● What is the total sales amount?
+  - The total sales amount is 220.23K
 
-
+## Add Slicer
 ## Screenshots
 ## Answers to Questions
+● What happens to other visuals when you click a region?
+  - When you click East in the slicer, all the other charts automatically update to show only the East region’s data, including the total sales, category breakdown, and sales trend.
+● Why is filtering important in BI?
+  - Filtering is important in Business Intelligence because it helps users focus on relevant data, identify problems, understand specific details, and make clearer and faster decisions.
 
+## Sort Sales
+## Screenshots
+## Answers to Questions
+● Does sorting improve readability?
+  - Yes, sorting greatly improves a chart’s readability, especially in the Region Chart, because it organizes the data in a clear order, making comparisons easier to understand.
+● Why?
+  - In the "Sum of Sales by Region" chart, the bars are sorted in descending order (West, East, South, North). This allows the viewer to immediately identify the highest and lowest performers without having to scan back and forth.
+
+## Identify Outliers
+● Which region is significantly higher or lower?
+  - The West ($59K) and East ($58K) regions are significantly higher, while the North ($46K) region is significantly lower.
+● What might explain that difference?
+  - The difference may be due to the West and East being more established markets with larger customer bases, stronger demand for popular products like Electronics, fewer stores or a smaller sales team in the North, or supply chain issues that impacted the North more than the other regions.
