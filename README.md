@@ -67,8 +67,8 @@
 - **Are sales consistent across dates?**  
   No, sales are very inconsistent. They dropped a lot, from about $80,000 in 2024 to around $10,000 in 2025.  
 
-- **Business recommendation:**  
-  Investigate why sales dropped almost 87% in 2025. Focus marketing on the West and East regions, and on Electronics and Furniture, since these bring in the most sales.
+- **What business recommendation can you suggest?**  
+  The most important action is to find out why sales dropped almost 87% in 2025. The business should also focus its marketing budget on the West and East regions, and on Electronics and Furniture, since these bring in the most sales.
 
 ---
 
@@ -94,16 +94,16 @@
 
 ### Part B – Analytical Questions
 6. **Which region has the highest total sales?**  
-   West region, nearly $60,000.  
+   West region, reaching nearly $60,000.  
 
 7. **Which category has the lowest performance?**  
-   Office Supplies, 19.99% ($44K) of total sales.  
+   Office Supplies is the lowest-performing category, making up only 19.99% ($44K) of the total sales.
 
 8. **Are sales increasing, decreasing, or stable?**  
    Decreasing from about $80,000 in 2024 to around $10,000 in 2025.  
 
 9. **If you were a manager, which region would you prioritize?**  
-   North region for growth ($46K), representing the largest opportunity.  
+   I would prioritize the North region for growth, as it is currently the lowest-performing region ($46K) and represents the largest opportunity for market expansion.
 
 10. **Provide one actionable recommendation.**  
     Investigate the 2025 sales drop of ~87% to prevent potential business issues.
@@ -127,7 +127,7 @@
   All other charts update to show only the selected region’s data.  
 
 - **Why is filtering important in BI?**  
-  It helps focus on relevant data, identify problems, and make faster, clearer decisions.
+  Filtering is important in Business Intelligence because It helps focus on relevant data, identify problems, and make faster, clearer decisions.
 
 ---
 
