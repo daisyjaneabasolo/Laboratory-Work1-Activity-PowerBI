@@ -89,7 +89,6 @@
   - Filtering is important in Business Intelligence because it helps users focus on relevant data, identify problems, understand specific details, and make clearer and faster decisions.
 
 # Sort Sales
-# Screenshots
 # Answers to Questions
 ● Does sorting improve readability?
   - Yes, sorting greatly improves a chart’s readability, especially in the Region Chart, because it organizes the data in a clear order, making comparisons easier to understand.
