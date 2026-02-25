@@ -9,7 +9,9 @@
   - Yes, the Sales column should be a Decimal Number so that the visuals can correctly calculate totals, like $220.23K.
 
 # Quick Visualization
-# Screenshots
+### Quick Visualization
+![Quick Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/6ff2609e3e86f4f85a56c22a67b2b0eeae022e34/Quick%20Visualization.png)
+
 # Answers to Questions
 ● What type of chart was created?
   - This is a Bar Chart.
@@ -17,13 +19,17 @@
   - Total Sales: The chart represents the "Sum of Sales," which is the total amount of money made.
 
 # Create a Sales by Region Chart
-# Screenshots
+### Region Chart
+![Region Chart](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/0038261cbef931c2a79377192d906d7bb832b5a3/Region%20Chart.png)
+
 # Answers to Questions
 ● Which region has highest sales?
   - The West is the highest sales in the graph.
 
 # Sales by Category
-# Screenshots
+### Sales by Category
+![Sales by Category](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/bfde732183fe7176fa9ab887e5db210bc4b0ad9b/Sales%20by%20Category.png)
+
 # Answers to Questions
 ● Which category dominates?
   - Electronics is the largest part of the pie chart, with 90K in sales, making up 40.82% of the total.
@@ -31,7 +37,9 @@
   - The sales are not balanced. Office Supplies make up only 19.99% of sales, which is about half of the other two categories. Electronics (40.82%) and Furniture (39.19%) are almost equal, but the low sales of Office Supplies make the distribution uneven.
 
 # Sales Over Time
-# Screenshots
+### Sales Over Time
+![Sales Over Time](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/670fd15e2e216c23848e8f898b89ab98f278c6ad/Sales%20Over%20Time.png)
+
 # Answers to Questions
 ● Is there growth?
   - There is no growth. Sales went down a lot between the two years.
@@ -75,13 +83,17 @@
   - Investigate the drop in 2025 sales. Check right away why sales fell by about 87% in one year to avoid the business shutdown.
 
 # Add a Card Visualization
-# Screenshots
+### Card Visualization
+![Card Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/5406d213b6b1934bdad20d5a241a6c677beb45a0/Card%20Visualization.png)
+
 # Answers to Questions
 ● What is the total sales amount?
   - The total sales amount is 220.23K
 
 # Add Slicer
-# Screenshots
+### Add Slicer
+![Add Slicer](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/034334b9d0bced4693fb38063371c433866ee5cc/Add%20Slicer.png)
+
 # Answers to Questions
 ● What happens to other visuals when you click a region?
   - When you click East in the slicer, all the other charts automatically update to show only the East region’s data, including the total sales, category breakdown, and sales trend.
