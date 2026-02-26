@@ -1,6 +1,13 @@
 # Laboratory-Work1-Activity-PowerBI
 
-## Verify Data in Data View
+## PART 1 | Step 1: Open Power BI Desktop
+![Quick Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/6ff2609e3e86f4f85a56c22a67b2b0eeae022e34/Quick%20Visualization.png)
+
+## PART 1 | Step 2: Load the Dataset
+![Quick Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/6ff2609e3e86f4f85a56c22a67b2b0eeae022e34/Quick%20Visualization.png)
+
+## PART 1 | Step 3: Verify Data in Data View
+![Quick Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/6ff2609e3e86f4f85a56c22a67b2b0eeae022e34/Quick%20Visualization.png)
 - **Are all columns visible?**  
   Yes, you should be able to see all five columns: Region, Category, Year (or Date), Sales, and a unique identifier like Product Name.
 
@@ -11,41 +18,43 @@
   Yes, the Sales column should be a Decimal Number so that the visuals can correctly calculate totals, like $220.23K.
 
 ---
-
-## Quick Visualization
+PART 2 | Exploring the Interface
+![Quick Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/6ff2609e3e86f4f85a56c22a67b2b0eeae022e34/Quick%20Visualization.png)
+---
+## PART 3: | Step 1: Quick Visualization
 ![Quick Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/6ff2609e3e86f4f85a56c22a67b2b0eeae022e34/Quick%20Visualization.png)
 
 **Answers to Questions:**  
 - **What type of chart was created?**  
-  This is a Bar Chart.  
+  Bar Chart.  
 
 - **What does it show?**  
-  Total Sales: The chart represents the "Sum of Sales," which is the total amount of money made.
+  Sum of Sales.
 
 ---
 
-## Create a Sales by Region Chart
+## PART 3: | Step 2: Create a Sales by Region Chart
 ![Region Chart](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/0038261cbef931c2a79377192d906d7bb832b5a3/Region%20Chart.png)
 
 **Answers to Questions:**  
 - **Which region has highest sales?**  
-  The West is the highest sales in the graph.
+  West.
 
 ---
 
-## Sales by Category
+## PART 3: | Step 3: Sales by Category
 ![Sales by Category](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/bfde732183fe7176fa9ab887e5db210bc4b0ad9b/Sales%20by%20Category.png)
 
 **Answers to Questions:**  
 - **Which category dominates?**  
-  Electronics is the largest part of the pie chart, with 90K in sales, making up 40.82% of the total.  
+  Electronics.
 
 - **Is the distribution balanced?**  
   The sales are not balanced. Office Supplies make up only 19.99% of sales, about half of the other two categories. Electronics (40.82%) and Furniture (39.19%) are almost equal, but the low sales of Office Supplies make the distribution uneven.
 
 ---
 
-## Sales Over Time
+## PART 3: | Step 4: Sales Over Time
 ![Sales Over Time](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/670fd15e2e216c23848e8f898b89ab98f278c6ad/Sales%20Over%20Time.png)
 
 **Answers to Questions:**  
@@ -57,12 +66,12 @@
 
 ---
 
-## Basic Data Insight Interpretation
+## PART 4: Basic Data Insight Interpretation
 - **Which region contributes most revenue?**  
-  The West region contributes the most revenue, totaling approximately $59,000.  
+   West region.  
 
 - **Which product category performs best?**  
-  The Electronics category performs the best, making $90,000 in sales, which is 40.82% of the total.  
+  Electronics category.  
 
 - **Are sales consistent across dates?**  
   No, sales are very inconsistent. They dropped a lot, from about $80,000 in 2024 to around $10,000 in 2025.  
@@ -110,7 +119,7 @@
 
 ---
 
-## Add a Card Visualization
+## ENHANCEMENT SECTION : Task 1: Add a Card Visualization
 ![Card Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/5406d213b6b1934bdad20d5a241a6c677beb45a0/Card%20Visualization.png)
 
 **Answers to Questions:**  
@@ -119,7 +128,7 @@
 
 ---
 
-## Add Slicer
+## Task 2: Add Slicer
 ![Add Slicer](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/034334b9d0bced4693fb38063371c433866ee5cc/Add%20Slicer.png)
 
 **Answers to Questions:**  
@@ -131,8 +140,7 @@
 
 ---
 
-## Sort Sales
-
+## Task 3: Sort Sales
 **Answers to Questions:**  
 - **Does sorting improve readability?**  
   Yes, it organizes data clearly, making comparisons easier.  
