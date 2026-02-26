@@ -1,13 +1,13 @@
 # Laboratory-Work1-Activity-PowerBI
 
 ## PART 1 | Step 1: Open Power BI Desktop
-![Screenshot 1]
+![Screenshot 1](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/f97750bc07a14c25b689e00e7af10351ca8e92bc/Screenshot%202026-02-26%20085747.png)
 
 ## PART 1 | Step 2: Load the Dataset
-![Screenshot 2]
+![Screenshot 2](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/232815ab5f69814ba4c97013b11fce6eb4e2a0ed/Screenshot%202026-02-26%20091252.png)
 
 ## PART 1 | Step 3: Verify Data in Data View
-![Screenshot 3]
+![Screenshot 3](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/795a0914c0b2527d51611b6d3a0d39aba09f8a2e/Screenshot%202026-02-26%20090847.png)
 - **Are all columns visible?**  
   Yes, you should be able to see all five columns: Region, Category, Year (or Date), Sales, and a unique identifier like Product Name.
 
@@ -18,7 +18,7 @@
   Yes, the Sales column should be a Decimal Number so that the visuals can correctly calculate totals, like $220.23K.
 ---
 PART 2 | Exploring the Interface
-![Screenshot 4]
+![Screenshot 4](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/85647087c365d1ef85874767963bfc001e95e815/Screenshot%202026-02-26%20131734.png)
 ---
 ## PART 3: | Step 1: Quick Visualization
 ![Quick Visualization](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/6ff2609e3e86f4f85a56c22a67b2b0eeae022e34/Quick%20Visualization.png)
