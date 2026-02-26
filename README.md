@@ -140,6 +140,8 @@ PART 2 | Exploring the Interface
 ---
 
 ## Task 3: Sort Sales
+![Region Chart](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/0038261cbef931c2a79377192d906d7bb832b5a3/Region%20Chart.png)
+
 **Answers to Questions:**  
 - **Does sorting improve readability?**  
   Yes, it organizes data clearly, making comparisons easier.  
