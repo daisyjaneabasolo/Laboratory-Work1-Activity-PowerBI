@@ -1,5 +1,5 @@
 # Laboratory-Work1-Activity-PowerBI
-This is my PPT PDF File (https://drive.google.com/drive/u/1/home)
+This is my PPT PDF File (https://drive.google.com/file/d/1MQJYuTV7HWtB0x2Et6-ax8rgPbw0Un4l/view?usp=sharing)
 
 ## PART 1 | Step 1: Open Power BI Desktop
 ![Screenshot 1](https://github.com/daisyjaneabasolo/Laboratory-Work1-Activity-PowerBI/blob/f97750bc07a14c25b689e00e7af10351ca8e92bc/Screenshot%202026-02-26%20085747.png)
